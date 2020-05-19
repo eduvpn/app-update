@@ -15,3 +15,13 @@ To sign:
 To upload:
 
     $ ./upload.sh
+
+The files are uploaded to:
+
+    https://app.eduvpn.org/windows/update.json
+    https://app.eduvpn.org/windows/update.json.minisig
+
+And:
+
+    https://app.letsconnect-vpn.org/windows/update.json
+    https://app.letsconnect-vpn.org/windows/update.json.minisig
