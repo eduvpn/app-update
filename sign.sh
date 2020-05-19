@@ -1,2 +1,2 @@
 #!/bin/sh
-php-json-signer --sign --name app *.json
+minisign -s windows.key -Sm eduVPN/*.json LC/*.json

@@ -1,3 +1,4 @@
 #!/bin/sh
 
-scp *.json *.sig spion.eduvpn.nl:/var/www/html/web/static/auto-update/
+scp eduVPN/* spion.eduvpn.nl:/var/www/html/web/app/windows
+scp LC/* spion.eduvpn.nl:/var/www/html/web/app-letsconnect/windows
