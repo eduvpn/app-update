@@ -2,8 +2,8 @@
     "arguments": "/install",
     "changelog_uri": "https://github.com/Amebis/eduVPN/blob/ver/1.x/CHANGES.md#1034-2020-10-05",
     "hash-sha256": "dbba724710d90a8498433d1a6edc0f4953b08c9c06a0c509db071d4dacab0c27",
-    "seq": 25,
-    "signed_at": "2020-10-06 08:47:03",
+    "seq": 26,
+    "signed_at": "2020-10-29 18:10:14",
     "uri": [
         "https://app.letsconnect-vpn.org/windows/LetsConnectClient_1.0.34.exe"
     ],
